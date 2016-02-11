@@ -8,5 +8,5 @@ Plugin filename will show up as item in Sketch Plugins menu.
   
 #Usage
 1. Select one or more text layers in Sketch. 
-2. Run ``Plugins > Golden Line Height``
+2. Run ``Plugins > Golden Line Height`` or use ``cmd + L``
 
