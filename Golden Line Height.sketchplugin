@@ -5,7 +5,7 @@ var textLayers = [];
 if (selection.count() > 0) {
 
 	// Loop through selected layers
-	for (var i = 0; i < selection.length(); i++) {
+	for (var i = 0; i < selection.count(); i++) {
 
 		var s = selection[i];
 
@@ -27,8 +27,9 @@ if (selection.count() > 0) {
 			var lineHeight = fontSize * (goldenRatio - (1 / (2 * goldenRatio)) * (1 - textWidth / ((fontSize * goldenRatio)*(fontSize * goldenRatio))));
 			
 			int goldenLineHeight = Math.round(lineHeight);
-			
-			textLayer.setLineSpacing(goldenLineHeight);
+		
+			textLayer.setLineHeight(goldenLineHeight);
+		
 		}
 
 	} else {
