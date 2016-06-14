@@ -1,5 +1,5 @@
 # Golden Ratio Line Height
-Sketch Plugin - Optimize your typography based on font size, line-height and width.
+Sketch Plugin - Optimize your typography with ease.
 
 
 #Install
@@ -12,4 +12,4 @@ Plugin filename will show up as item in Sketch Plugins menu.
 2. Run ``Plugins > Golden Line Height`` or use ``cmd + L``
 
 <br><br>
-Thanks to <a href="http://www.pearsonified.com/typography/">Pearsonified´s Golden Ratio Typography Calculator</a> for providing all the math magic stuff! 
+Thanks to <a href="http://www.pearsonified.com/typography/">Pearsonified´s Golden Ratio Typography Calculator</a> for providing all math magic stuff! 
