@@ -12,4 +12,4 @@ Plugin filename will show up as item in Sketch Plugins menu.
 2. Run ``Plugins > Golden Line Height`` or use ``cmd + L``
 
 <br><br>
-I would like to thank <a href="http://www.pearsonified.com/typography/">Pearsonified´s Golden Ratio Typography Calculator</a> for providing all the math magic stuff! 
+Thanks to <a href="http://www.pearsonified.com/typography/">Pearsonified´s Golden Ratio Typography Calculator</a> for providing all the math magic stuff! 
