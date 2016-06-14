@@ -1,9 +1,6 @@
 # Golden Ratio Line Height
 Sketch Plugin - Optimize your typography based on font size, line-height and width.
 
-Important: Sketch v3.6.1 and higher doesn´t update the UI correctly. 
-There will be a fix within the next days :) 
-
 
 #Install
 1. Download and extract ZIP of this repo.
