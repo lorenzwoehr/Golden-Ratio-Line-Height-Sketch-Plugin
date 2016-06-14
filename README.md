@@ -1,5 +1,5 @@
 # Golden Ratio Line Height
-Sketch Plugin - Optimize your typography with ease.
+[Sketch Plugin] Optimize your typography with ease.
 
 
 #Install
