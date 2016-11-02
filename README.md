@@ -1,4 +1,9 @@
+*****
+**Important note:** The plugin has been updated to work with Sketch 3.4+
+*****
+
 [Sketch Plugin] 
+
 # Golden Ratio Line Height
 Optimize your typography with ease.
 
