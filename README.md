@@ -8,12 +8,12 @@
 Optimize your typography with ease.
 
 
-#Install
+## Install
 1. Download and extract ZIP of this repo.
 2. Copy the plugin ``Golden Line Height.sketchplugin`` in your Sketch plugin folder (use ``Plugins > Reveal Plugins Folder``).
 Plugin filename will show up as item in Sketch Plugins menu.
   
-#Usage
+## Usage
 1. Select one or more text layers in Sketch. 
 2. Run ``Plugins > Golden Line Height`` or use ``cmd + L``
 
