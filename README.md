@@ -1,8 +1,6 @@
 *****
-**Important note:** The plugin has been updated to work with Sketch 3.4+
+**Sketch Plugin by <a href="http://www.lorenzwoehr.com/">Lorenz Wöhr</a>**
 *****
-
-[Sketch Plugin] 
 
 # Golden Ratio Line Height
 Optimize your typography with ease.
